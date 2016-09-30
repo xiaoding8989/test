@@ -46,15 +46,3 @@
 //		alert(--num1);
 		num1=true;
 		num1=false;
-//		alert(++num1);
-//		alert(--num1);
-//字符串型不支持自增自减运算符
-		num1='3b';
-//		alert(++num1);
-//		alert(--num1);
-//null支持自增自减运算符
-		num1=null;
-//		alert(++num1);
-//		alert(--num1);
-		num1=undefined;
-		alert(++num1);
