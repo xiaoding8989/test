@@ -6,4 +6,10 @@ div{
 P{color: red;
     width: 50px;
     height: 600px;}
-
+#dev{
+    color: green;
+}
+.A{
+    width: 200px;
+    height: 300px;
+}
